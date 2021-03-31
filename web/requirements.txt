@@ -20,7 +20,7 @@ httplib2==0.9.1
 
 jdcal==1.3
 Jinja2==2.8
-lxml==3.5.0
+lxml==4.6.3
 
 oauthlib==1.0.3
 
